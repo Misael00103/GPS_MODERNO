@@ -1,0 +1,15 @@
+C:\Users\Misael Beriguete\source\repos\GPS_MODERNO\GPS_MODERNO\GPS_MODERNO\bin\Debug\netstandard2.0\GPS_MODERNO.deps.json
+C:\Users\Misael Beriguete\source\repos\GPS_MODERNO\GPS_MODERNO\GPS_MODERNO\bin\Debug\netstandard2.0\GPS_MODERNO.dll
+C:\Users\Misael Beriguete\source\repos\GPS_MODERNO\GPS_MODERNO\GPS_MODERNO\bin\Debug\netstandard2.0\GPS_MODERNO.pdb
+C:\Users\Misael Beriguete\source\repos\GPS_MODERNO\GPS_MODERNO\GPS_MODERNO\obj\Debug\netstandard2.0\GPS_MODERNO.csproj.AssemblyReference.cache
+C:\Users\Misael Beriguete\source\repos\GPS_MODERNO\GPS_MODERNO\GPS_MODERNO\obj\Debug\netstandard2.0\GPS_MODERNO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Misael Beriguete\source\repos\GPS_MODERNO\GPS_MODERNO\GPS_MODERNO\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Misael Beriguete\source\repos\GPS_MODERNO\GPS_MODERNO\GPS_MODERNO\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Misael Beriguete\source\repos\GPS_MODERNO\GPS_MODERNO\GPS_MODERNO\obj\Debug\netstandard2.0\GPS_MODERNO.AssemblyInfoInputs.cache
+C:\Users\Misael Beriguete\source\repos\GPS_MODERNO\GPS_MODERNO\GPS_MODERNO\obj\Debug\netstandard2.0\GPS_MODERNO.AssemblyInfo.cs
+C:\Users\Misael Beriguete\source\repos\GPS_MODERNO\GPS_MODERNO\GPS_MODERNO\obj\Debug\netstandard2.0\GPS_MODERNO.csproj.CoreCompileInputs.cache
+C:\Users\Misael Beriguete\source\repos\GPS_MODERNO\GPS_MODERNO\GPS_MODERNO\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Misael Beriguete\source\repos\GPS_MODERNO\GPS_MODERNO\GPS_MODERNO\obj\Debug\netstandard2.0\GPS_MODERNO.dll
+C:\Users\Misael Beriguete\source\repos\GPS_MODERNO\GPS_MODERNO\GPS_MODERNO\obj\Debug\netstandard2.0\refint\GPS_MODERNO.dll
+C:\Users\Misael Beriguete\source\repos\GPS_MODERNO\GPS_MODERNO\GPS_MODERNO\obj\Debug\netstandard2.0\GPS_MODERNO.pdb
+C:\Users\Misael Beriguete\source\repos\GPS_MODERNO\GPS_MODERNO\GPS_MODERNO\obj\Debug\netstandard2.0\ref\GPS_MODERNO.dll
